@@ -1,6 +1,6 @@
 # **CORTEX Manifesto V0.1**
 
-## **Title: CORTEX – A Living System for Human-AI Collaboration**
+## **CORTEX – A Living System for Human-AI Collaboration**
 
 By [Jake Martin](https://www.linkedin.com/in/seattlesearchoptimization/)
 
