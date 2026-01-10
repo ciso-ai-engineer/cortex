@@ -83,4 +83,4 @@ Learn more: https://strongclose.ai
 
 ### License
 
-Add a license that matches your intended adoption model (MIT/Apache-2.0 for broad adoption, or a more restrictive license if desired).
+Apache-2.0
