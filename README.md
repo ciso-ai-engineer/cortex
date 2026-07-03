@@ -72,12 +72,10 @@ Open an issue with:
 ## About the Author
 
 Created by **Jake Martin**  
-LinkedIn: https://www.linkedin.com/in/seattlesearchoptimization/
+LinkedIn: [https://www.linkedin.com/in/seattlesearchoptimization/](https://www.linkedin.com/in/intelligence-fabric/)
 
-## StrongClose.ai
-
-CORTEX is developed in the context of real-world systems work at **StrongClose.ai**.  
-Learn more: https://strongclose.ai
+CORTEX is developed in the context of real-world systems work at **Northline Engineering**.  
+Learn more: [https://northline-engineering.com](https://northline-engineering.com/)
 
 ---
 
